@@ -111,7 +111,7 @@ const textNodes = [
   },
   {
     id: 6,
-    text: 'Hehe. Anyway, I originally wanted to write you a love letter, and post it to your house, but SOMEONE took too long to send it to me.',
+    text: 'Hehe. Anyway, I originally wanted to write you a love letter, and post it to your house, but SOMEONE took too long to send me her address.',
     options: [
       {
         text: 'Sorry mi amorrr',
